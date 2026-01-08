@@ -35,7 +35,7 @@ vectorizer = CountVectorizer(token_pattern=r"\b\w+\b|[^\w\s]", ngram_range=(1,3)
 ```
 
 * **Why?** This ensures symbols like `{`, `}`, `++`, and `;` are treated as distinct features.
-* **Insight:** The model learns that nested brackets "{{" often correlate with O(n^2).
+* **Insight:** The model learns that nested brackets often correlate with O(n^2).
 
 ## 📊 Results & Analysis
 
