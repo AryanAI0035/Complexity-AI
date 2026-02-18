@@ -93,5 +93,5 @@ The Random Forest model identified the following tokens as the strongest predict
 ---
 
 ## 👨‍💻 Author
-**Aryan Shukla** 2nd Year B.Tech AI Student  
+**Aryan Shukla** 2nd Year  AI Student  
 *Passionate about AI, Algorithms, and ML.*
